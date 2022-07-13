@@ -8,6 +8,7 @@ authors = ["Weber <ychuang@eland.com.tw>"]
 python = "^3.8"
 jieba = "^0.42.1"
 pandas = "^1.4.3"
+segment = "^0.2.0"
 
 [tool.poetry.dev-dependencies]
 
